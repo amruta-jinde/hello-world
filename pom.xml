@@ -39,6 +39,19 @@
         </configuration>
       </plugin>
 
+      
+       <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.8.1</version> <!-- Update to a version that supports Java 8 or later -->
+            <configuration>
+                <source>1.8</source> <!-- Update to Java 8 -->
+                <target>1.8</target> <!-- Update to Java 8 -->
+            </configuration>
+        </plugin>
+       <!-- other plugins -->
+    
+
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
         <configuration>
