@@ -13,7 +13,13 @@
 <h1> Jai Shree Ram </h1>
 <h1> Testing for DevOps </h1>
 <h1> DevOps Weekend Batch 21062025 -Saturday </h1>
+<<<<<<< HEAD
 <h1> it education, first jenkins project
 <h1> shree radha vallabh <h1>
 <h1> shree hariwansh <h1>
-<h1> ashok jinde <h1>
+<h1> it education, first jenkins
+<h1> rishita rushikesh jinde <h1>
+<h1> amruta rushikesh jinde <h1>
+<h1> ashok jinde <h1> 
+
+>>>>>>> 61774cba23fcce5eef2c41e6f1ba1fdd296361ab
